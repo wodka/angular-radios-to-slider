@@ -1,0 +1,27 @@
+{
+  "name": "angular-radios-to-slider",
+  "homepage": "https://github.com/wodka/angular-radios-to-slider",
+  "authors": [
+    "Michael Schramm <michael.schramm@gmail.com>"
+  ],
+  "dependencies": {
+    "angular": ">=1.4.0",
+    "radios-to-slider": "#master"
+  },
+  "description": "angular module for rubentd/radios-to-slider",
+  "main": "src/radioSlider.js",
+  "keywords": [
+    "radio",
+    "slider",
+    "angular",
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
